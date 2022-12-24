@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.26",
+        "guzzlehttp/guzzle": "^7.0",
+      "ext-gd": "*"
+    }
+}

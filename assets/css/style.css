@@ -1,0 +1,15 @@
+.card-icon i {
+    font-size: 34px;
+}
+body {
+    background: #f9f9f9;
+}
+
+.card-title {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.notify {
+    display: none;
+}
